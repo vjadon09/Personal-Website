@@ -43,7 +43,7 @@ export function AboutContent() {
           </p>
           <p className="text-muted-foreground leading-relaxed">
             I&apos;ve worked at theScore Media and Gaming, where I helped automate ESPN Bet&apos;s trading
-            platform using Selenium, Cucumber BDD, and Kotlin—integrating everything into CI/CD
+            platform using Selenium, Cucumber BDD, and Kotlin and integrated everything into CI/CD
             pipelines with GitHub and Jenkins for smoother releases. At TMU, I led a full-stack
             FastAPI + MongoDB capstone deployed on Google Cloud with Docker and Kubernetes, and built
             several projects around encryption, distributed systems, and emotion recognition.
@@ -51,7 +51,7 @@ export function AboutContent() {
           <p className="text-muted-foreground leading-relaxed">
             Outside of code, I&apos;ve served as Equity, Diversity, and Inclusivity Chair for Women in
             Engineering, organizing programs and mentoring students. I value collaboration, clear
-            design, and continuous learning—and I&apos;m always excited to work on products that make an
+            design, and continuous learning and I&apos;m always excited to work on products that make an
             impact.
           </p>
         </CardContent>
