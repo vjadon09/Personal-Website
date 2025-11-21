@@ -3,6 +3,10 @@
 This is my personal portfolio website, built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 It showcases my projects, experience, and contact information in a clean, responsive layout.
 
+<p align="center">
+  <img src="assets/banner/banner11.png" width="100%" />
+</p>
+
 ## Features
 
 - Modern, responsive UI
