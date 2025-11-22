@@ -24,7 +24,7 @@ export function ProjectsHeader() {
         </h1>
         <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
           A collection of projects that showcase my skills in full-stack development, 
-          cloud deployment, machine learning, etc.Each project represents a step in learning,
+          cloud deployment, machine learning, etc. Each project represents a step in learning,
           experimenting, and building real solutions.
         </p>
       </motion.div>
